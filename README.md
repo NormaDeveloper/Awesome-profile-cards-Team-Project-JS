@@ -29,7 +29,7 @@
 
  This repository includes the group project of Module 2 of the Web Development bootcamp of Adalab, a Front-End development course focused on women without previous programming knowledge.
 
-This project has been carried out by 5 students and it has been our second collaborative website developed. In this project we have made an interactive web application to create a personalized business card. On the website we can enter our professional data and obtain a layout view with this information. 
+This project has been carried out by 5 students and it has been our second collaborative website developed. In this project we have developed an interactive web application to create a personalized business card. On the website we can enter our professional data and obtain a layout view with this information. 
     
     
 
